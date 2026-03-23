@@ -22,7 +22,7 @@ Predict the likelihood of heart disease based on patient health indicators.
 Logistic Regression achieved the best performance with the highest AUC (0.924), indicating strong predictive capability.
 
 ## Tech Stack
-- Python / R  
+- Python
 - Pandas, NumPy  
 - Scikit-learn  
 - Data visualisation libraries  
